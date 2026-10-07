@@ -409,7 +409,3 @@ Demo sessions are pre-seeded and do not expire. Fixture accounts use password `f
 | **[SCREENSHOTS.md](SCREENSHOTS.md)** | Visual tour catalog and image specifications. |
 
 ---
-
-## 📄 License
-
-Lockdown is released under the [MIT License](LICENSE). Built for the **DOGFOOD 2026** competition brief.
