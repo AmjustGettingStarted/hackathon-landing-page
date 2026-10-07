@@ -107,7 +107,7 @@ def render_shell(*, title: str, content: str, user: dict | None = None,
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{esc(title)} — Lockdown</title>
+  <title>{esc(title)} | Lockdown</title>
   <link rel="stylesheet" href="/static/app.css">
   <script defer src="/static/app.js"></script>
   <script defer src="/static/globe.js"></script>
